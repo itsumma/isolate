@@ -1,5 +1,7 @@
 # isolate
 
+[![Join the chat at https://gitter.im/isolate_bastion/Lobby](https://badges.gitter.im/isolate_bastion/Lobby.svg)](https://gitter.im/isolate_bastion/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/itsumma/isolate.svg?branch=master)](https://travis-ci.org/itsumma/isolate)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/isolate_bastion/Lobby)
 
